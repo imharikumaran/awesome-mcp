@@ -294,6 +294,13 @@
       "repo_url": "https://github.com/Hypersequent/qasphere-mcp",
       "tags": ["integration"],
       "language": "typescript"
+    },
+    {
+      "name": "Altimateguide",
+      "description": "Submit software tools to the Altimateguide directory for editorial review: log in, list categories, check for duplicates, submit a tool, and track submission status.",
+      "repo_url": "https://github.com/imharikumaran/altimateguide-agent-mcp",
+      "tags": ["integration"],
+      "language": "typescript"
     }
   ]
 }
